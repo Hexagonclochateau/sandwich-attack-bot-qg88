@@ -1,4 +1,4 @@
-# 
+# high-frequency MEV Bot for MEV arbitrage bot | trailing-stop & liquidity-sniping is the best MEV arbitrage bot, featuring trailing-stop and liquidity-sniping. Fast, smart, and
 
 
 
